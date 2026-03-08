@@ -77,5 +77,10 @@ Tips, variants, known limitations.
 |------|----------|-------------|--------|
 | _(example)_ Pain Point Extractor | validation | Extracts pain points from interview transcripts | @andrea |
 | _(example)_ Market Sizing Model | market | Generates a TAM/SAM/SOM breakdown from a brief | @name |
+| The 'First Principles' Ideation Engine | exploration | First Principles thinking prompt to deeply innovate in stagnant industries | @SeniorPromptEngineer |
+| The 'Mom Test' Interview Simulator | validation | AI acts as a user persona for customer discovery, adhering to The Mom Test | @SeniorPromptEngineer |
+| The 'Working Backwards' Product Spec | product | Generates an Amazon-style 1-pager PRD starting from the PR and FAQ | @SeniorPromptEngineer |
+| The 'Rubber Duck' Master Debugger | tech | Forces a methodical, step-by-step diagnostic mindset to fix complex bugs | @SeniorPromptEngineer |
+| The 'Hook, Story, Offer' Copywriter | marketing | Writes highly persuasive ad or email copy based on direct response frameworks | @SeniorPromptEngineer |
 
 ---
